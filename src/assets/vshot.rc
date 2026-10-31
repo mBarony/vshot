@@ -1,0 +1,4 @@
+// Recursos embutidos no vshot.exe: o ícone da aplicação, que o Explorer mostra no arquivo e
+// que a bandeja e a janela do editor carregam do próprio executável. O mesmo desenho do
+// RustShot, a versão em Rust desta aplicação.
+1 ICON "vshot.ico"

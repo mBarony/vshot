@@ -1,0 +1,5 @@
+*.exe
+build/*
+!build/instalar-ocr-portugues.bat
+capturas/
+tmp/

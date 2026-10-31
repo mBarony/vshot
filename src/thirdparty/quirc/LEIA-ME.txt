@@ -1,0 +1,6 @@
+quirc — decodificador de QR code em C, de Daniel Beer.
+
+Origem: https://github.com/dlbeer/quirc, versão 1.2 (quirc-v1.2.tar.gz).
+Licença: ISC, no arquivo LICENSE ao lado.
+
+Os arquivos .c e .h daqui são os de lib/ dessa versão, sem alteração. O quirc_all.c é deste projeto: junta as fontes numa unidade só, que qr.v inclui para elas entrarem na compilação do V.
